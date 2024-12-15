@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    border: 1px solid black;
+}
+.nav{
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: rgb(161, 84, 84);
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: aliceblue;
+}
+.confirmation{
+    height: 100vh;
+    position: absolute;
+    top:30px;
+}
